@@ -16,7 +16,5 @@
     "url": "https://github.com/Harminder84/vuln-test/issues"
   },
   "homepage": "https://github.com/Harminder84/vuln-test#readme",
-  "dependencies": {
-    "lodash": "4.17.11"
-  }
+  "dependencies": {}
 }
