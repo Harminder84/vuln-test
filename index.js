@@ -1,1 +1,1 @@
-const secret;
+const secret = "abc";
